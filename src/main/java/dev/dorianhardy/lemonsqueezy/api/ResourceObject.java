@@ -9,8 +9,8 @@ public class ResourceObject {
 
     private Object attributes;
 
-    private relationships
-    private links
-    private meta
+//    private relationships
+//    private links
+//    private meta
 
 }
